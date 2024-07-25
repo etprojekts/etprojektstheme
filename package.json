@@ -1,0 +1,21 @@
+{
+  "name": "etprojektstheme",
+  "displayName": "ET-Projekts Theme",
+  "description": "Dark Theme for VS Code Theme",
+  "version": "1.0",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ET-Projekts",
+        "uiTheme": "vs-dark",
+        "path": "./themes/et-Projekts-theme.json"
+      }
+    ]
+  }
+}
