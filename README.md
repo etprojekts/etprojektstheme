@@ -17,3 +17,7 @@ Project development in python
 
 * [email](mailto:contato@etprojekts.com.br) - Entrar em contato comercial
 * [Linkedin](https://www.linkedin.com/in/emanoel-tosta-09233130b/) - Pessoal
+
+## License
+
+[MIT License](https://github.com/etprojekts/etprojektstheme/blob/main/LICENSE)
