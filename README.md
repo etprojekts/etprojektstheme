@@ -2,11 +2,11 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-[codesnap](https://github.com/etprojekts/etprojektstheme/blob/main/codesnap.png?raw=true)
+[codesnap](![codesnap](https://github.com/user-attachments/assets/30351854-0ac1-42fb-a602-ba87f915bac5))
 
 ## Author
 
-[photo](https://avatars.githubusercontent.com/u/170535413?v=4) |
+[photo](![profile](https://github.com/user-attachments/assets/6db6eead-3042-4982-bcca-18d286456089)) |
 :---: |
 
 By Emanoel Tosta.
