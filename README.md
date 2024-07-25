@@ -4,7 +4,7 @@
 
 ## Author
 
-[EmanoelTosta](https://avatars.githubusercontent.com/u/170535413?v=4) |
+[photo](https://avatars.githubusercontent.com/u/170535413?v=4) |
 :---: |
 
 By Emanoel Tosta.
@@ -13,5 +13,5 @@ Project development in python
 
 ## For more information
 
-* [email](contato@etprojekts.com.br) - Comercial
+* [email](mailto:contato@etprojekts.com.br) - Entrar em contato comercial
 * [Linkedin](https://www.linkedin.com/in/emanoel-tosta-09233130b/) - Pessoal
