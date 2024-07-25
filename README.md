@@ -10,7 +10,7 @@
 
 <div align="left">
 <img src="https://github.com/user-attachments/assets/6db6eead-3042-4982-bcca-18d286456089" width="128px" />
-  ______________
+< _______________ />
 </div>
 
 By Emanoel Tosta.
