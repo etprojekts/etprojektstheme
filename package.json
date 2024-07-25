@@ -3,6 +3,7 @@
   "displayName": "ET-Projekts Theme",
   "description": "A Dark Theme for VS Code",
   "publisher": "ET-Projekts",
+  "license": "MIT",
   "author": {
     "name": "Emanoel Tosta",
     "email": "contato@etprojekts.com.br"
