@@ -1,7 +1,20 @@
 {
   "name": "etprojektstheme",
   "displayName": "ET-Projekts Theme",
-  "description": "Dark Theme for VS Code Theme",
+  "description": "A Dark Theme for VS Code",
+  "publisher": "ET-Projekts",
+  "author": {
+    "name": "Emanoel Tosta",
+    "email": "contato@etprojekts.com.br"
+  },
+  "maintainers": [
+    "Emanoel Tosta"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etprojekts/etprojektstheme"
+  },
+  "icon": "icon.png",
   "version": "1.0",
   "engines": {
     "vscode": "^1.91.0"
@@ -9,10 +22,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "tema",
+    "etprojektstheme",
+    "dark",
+    "color-theme",
+    "tema escuro"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "ET-Projekts",
+        "label": "ET-Projekts Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/et-Projekts-theme.json"
       }
