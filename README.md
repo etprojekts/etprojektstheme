@@ -3,12 +3,14 @@
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/30351854-0ac1-42fb-a602-ba87f915bac5" width="700px" />
+<img src="https://github.com/user-attachments/assets/30351854-0ac1-42fb-a602-ba87f915bac5" width="400px" />
 </div>
 
 ## Author
 
-[photo](![profile](https://github.com/user-attachments/assets/6db6eead-3042-4982-bcca-18d286456089)) |
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6db6eead-3042-4982-bcca-18d286456089" width="128px" />
+</div> |
 :---: |
 
 By Emanoel Tosta.
