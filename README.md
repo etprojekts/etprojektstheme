@@ -2,6 +2,8 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
+[codesnap](https://github.com/etprojekts/etprojektstheme/blob/main/codesnap.png?raw=true)
+
 ## Author
 
 [photo](https://avatars.githubusercontent.com/u/170535413?v=4) |
