@@ -12,14 +12,13 @@
 
 <div align="left">
 <img src="https://github.com/user-attachments/assets/6db6eead-3042-4982-bcca-18d286456089" width="90px" />
-  :---: |
-</div>|
+</div>
 
 By Emanoel Tosta.
 </p>
-Brazilian developer, founder of ET Projets.
+Brazilian developer, founder ET Projets.
 </p>
-Project development in python
+Development in python
 
 ## For more information
 
