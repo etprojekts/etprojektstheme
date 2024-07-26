@@ -2,6 +2,8 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
+</p>
+
 <div align="left">
 <img src="https://github.com/user-attachments/assets/30351854-0ac1-42fb-a602-ba87f915bac5" width="600px" />
 </div>
